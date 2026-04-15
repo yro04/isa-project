@@ -96,6 +96,7 @@ npm run preview
 ## Build notes
 
 - No UI framework — just React and hand-authored CSS split for readability.  
+- **`@types/node`** is a dev dependency so TypeScript recognizes **`process.env`** in `vite.config.ts` (standard Vite setup). `tsconfig.node.json` includes **`"types": ["node"]`** for that config only.  
 - Contact links (`mailto`, LinkedIn) live in `App.tsx`; swap them for your own details when reusing the template.
 
 ---
