@@ -263,7 +263,7 @@ export default function App() {
           </div>
           <p className="services-sub">
             Whether you need someone to manage your customer relationships, develop your support team, or improve your
-            CX processes — I bring over a decade of hands-on experience in remote, international environments.
+            CX processes — I bring over a decade of hands-on experience in remote, international environments. TESTYING
           </p>
         </div>
         <div className="services-grid">
@@ -273,7 +273,7 @@ export default function App() {
             <div className="service-rule" />
             <p className="service-desc">
               I build genuine, lasting relationships with your clients — managing the full customer journey from
-              onboarding to renewal, reducing churn, and making sure your users feel supported at every touchpoint.
+              onboarding to renewal, reducing churn, and making sure your users feel supported at every touchpoint. Hola como estas????
             </p>
             <div className="service-tags">
               <span className="tag">Account management</span>
